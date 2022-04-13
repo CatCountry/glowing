@@ -1,1 +1,350 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T03:07:11.325Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="1fd8wn6Aqsgh-KfeCWaM" version="17.2.5" type="github"><diagram id="3DLmr5K-KWjLy71AkuOV" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-13T03:18:23.246Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="UZ1a7-OfFcIdwmcL272z" version="17.2.5" type="github">
+  <diagram id="3DLmr5K-KWjLy71AkuOV" name="Page-1">
+    <mxGraphModel dx="1783" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-2" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-3" value="管理员端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="370" y="40" width="100" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-5" value="开通成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="1" source="X2jp-lempmuv-Ai-_Ycj-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="200" as="sourcePoint" />
+            <mxPoint x="200" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-6" value="开通学校的盒子模式" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" target="X2jp-lempmuv-Ai-_Ycj-3" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="210" y="170" as="sourcePoint" />
+            <mxPoint x="240" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-7" value="添加加密狗(标识、秘钥)" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" target="X2jp-lempmuv-Ai-_Ycj-3" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="200" y="250" as="sourcePoint" />
+            <mxPoint x="280" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-8" value="添加成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="1" source="X2jp-lempmuv-Ai-_Ycj-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="290" as="sourcePoint" />
+            <mxPoint x="200" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-9" value="添加盒子信息（标识、MAC）" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" target="X2jp-lempmuv-Ai-_Ycj-3" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="200" y="350" as="sourcePoint" />
+            <mxPoint x="280" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-10" value="Note：&lt;br&gt;加密狗用于生成Token,同一学校内的&lt;br&gt;加密狗和任一盒子匹配，即可访问，&lt;br&gt;不需要加密狗和盒子一一匹配" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="510" y="250" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-11" value="盒子代理" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="490" width="100" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="X2jp-lempmuv-Ai-_Ycj-11" vertex="1">
+          <mxGeometry x="45" y="200" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-18" value="判断资源是否缓存" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="X2jp-lempmuv-Ai-_Ycj-11" target="X2jp-lempmuv-Ai-_Ycj-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="180" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="75" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-13" value="ILearningAPI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="510" y="490" width="100" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="X2jp-lempmuv-Ai-_Ycj-13" vertex="1">
+          <mxGeometry x="45" y="80" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="X2jp-lempmuv-Ai-_Ycj-13" vertex="1">
+          <mxGeometry x="45" y="250" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-15" value="请求资源全量列表" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" parent="1" source="X2jp-lempmuv-Ai-_Ycj-11" target="X2jp-lempmuv-Ai-_Ycj-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="485" y="570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-16" value="资源全量列表" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" parent="1" source="X2jp-lempmuv-Ai-_Ycj-14" target="X2jp-lempmuv-Ai-_Ycj-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="485" y="646" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-21" value="获取下载链接" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" parent="1" source="X2jp-lempmuv-Ai-_Ycj-11" target="X2jp-lempmuv-Ai-_Ycj-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="485" y="740" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-22" value="下载链接" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" parent="1" source="X2jp-lempmuv-Ai-_Ycj-20" target="X2jp-lempmuv-Ai-_Ycj-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="485" y="816" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-23" value="盒子定时任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="460" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-24" value="管理员开通盒子模式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry y="100" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-25" value="用户访问资源" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="15" y="910" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-26" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="920" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-27" value="ILearning客户端（盒子）" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="930" width="100" height="930" as="geometry" />
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-31" value="检查升级" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="X2jp-lempmuv-Ai-_Ycj-27" target="X2jp-lempmuv-Ai-_Ycj-28" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="120" as="sourcePoint" />
+            <mxPoint x="130" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-34" value="是否升级以及详情" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="X2jp-lempmuv-Ai-_Ycj-27" source="X2jp-lempmuv-Ai-_Ycj-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="190" as="sourcePoint" />
+            <mxPoint x="50" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-35" value="获取学校的主页地址" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="X2jp-lempmuv-Ai-_Ycj-27" target="X2jp-lempmuv-Ai-_Ycj-28" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="230" as="sourcePoint" />
+            <mxPoint x="130" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-40" value="跳转到主页" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="X2jp-lempmuv-Ai-_Ycj-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="45" y="340" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="75" y="340" />
+            </Array>
+            <mxPoint x="50" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-41" value="访问资源详情页" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="X2jp-lempmuv-Ai-_Ycj-27" target="X2jp-lempmuv-Ai-_Ycj-28" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="400" as="sourcePoint" />
+            <mxPoint x="130" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-28" value="盒子代理" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="560" y="930" width="100" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-33" value="是否升级以及详情" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="X2jp-lempmuv-Ai-_Ycj-28" source="X2jp-lempmuv-Ai-_Ycj-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="170" as="sourcePoint" />
+            <mxPoint x="50" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-52" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="X2jp-lempmuv-Ai-_Ycj-28" vertex="1">
+          <mxGeometry x="40" y="640" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-61" value="playStartCallback" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="X2jp-lempmuv-Ai-_Ycj-28" target="X2jp-lempmuv-Ai-_Ycj-29" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="710" as="sourcePoint" />
+            <mxPoint x="130" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbWG3TrYyFATLEGv4jDe-1" value="验证播放token" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="X2jp-lempmuv-Ai-_Ycj-28" target="X2jp-lempmuv-Ai-_Ycj-29">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="650" as="sourcePoint" />
+            <mxPoint x="130" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-29" value="ILearningAPI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="810" y="930" width="100" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-30" value="启动" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" target="X2jp-lempmuv-Ai-_Ycj-27" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="220" y="1040" as="sourcePoint" />
+            <mxPoint x="300" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-32" value="检查升级" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" source="X2jp-lempmuv-Ai-_Ycj-28" target="X2jp-lempmuv-Ai-_Ycj-29" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="570" y="1060" as="sourcePoint" />
+            <mxPoint x="799.5" y="1060" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-36" value="获取学校的主页地址" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" source="X2jp-lempmuv-Ai-_Ycj-28" target="X2jp-lempmuv-Ai-_Ycj-29" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="620" y="1180" as="sourcePoint" />
+            <mxPoint x="849.5" y="1180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="1180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-37" value="主页地址" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="1" source="X2jp-lempmuv-Ai-_Ycj-29" target="X2jp-lempmuv-Ai-_Ycj-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="1220" as="sourcePoint" />
+            <mxPoint x="690" y="1220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="1220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-38" value="主页地址" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="1" source="X2jp-lempmuv-Ai-_Ycj-28" target="X2jp-lempmuv-Ai-_Ycj-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="1250" as="sourcePoint" />
+            <mxPoint x="440" y="1250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-42" value="资源详情页" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" source="X2jp-lempmuv-Ai-_Ycj-28" target="X2jp-lempmuv-Ai-_Ycj-29" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="680" y="1350" as="sourcePoint" />
+            <mxPoint x="760" y="1350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="1350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-43" value="起源详情页" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="1" source="X2jp-lempmuv-Ai-_Ycj-29" target="X2jp-lempmuv-Ai-_Ycj-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="1390" as="sourcePoint" />
+            <mxPoint x="670" y="1390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="1380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-44" value="详情页" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="1" source="X2jp-lempmuv-Ai-_Ycj-28" target="X2jp-lempmuv-Ai-_Ycj-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="1420" as="sourcePoint" />
+            <mxPoint x="440" y="1420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="1400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-45" value="访问资源详情页" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" target="X2jp-lempmuv-Ai-_Ycj-27" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="220" y="1309.5" as="sourcePoint" />
+            <mxPoint x="300" y="1309.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-46" value="页面展示" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="1" source="X2jp-lempmuv-Ai-_Ycj-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="1420" as="sourcePoint" />
+            <mxPoint x="230" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-47" value="播放资源" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" target="X2jp-lempmuv-Ai-_Ycj-27" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="230" y="1450" as="sourcePoint" />
+            <mxPoint x="310" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-48" value="获取资源访问链接" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" source="X2jp-lempmuv-Ai-_Ycj-27" target="X2jp-lempmuv-Ai-_Ycj-28" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="410" y="1470" as="sourcePoint" />
+            <mxPoint x="490" y="1470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="1470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-49" value="获取资源访问链接" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" source="X2jp-lempmuv-Ai-_Ycj-28" target="X2jp-lempmuv-Ai-_Ycj-29" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="640" y="1490" as="sourcePoint" />
+            <mxPoint x="720" y="1490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="1490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-50" value="资源的盒子专属链接" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="1" source="X2jp-lempmuv-Ai-_Ycj-29" target="X2jp-lempmuv-Ai-_Ycj-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="1540" as="sourcePoint" />
+            <mxPoint x="670" y="1540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="1520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-55" value="流式资源" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="1" source="X2jp-lempmuv-Ai-_Ycj-28" target="X2jp-lempmuv-Ai-_Ycj-27" edge="1">
+          <mxGeometry x="0.0635" relative="1" as="geometry">
+            <mxPoint x="280" y="1650" as="sourcePoint" />
+            <mxPoint x="450" y="1650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="1650" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-59" value="流式资源" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="0.0635" relative="1" as="geometry">
+            <mxPoint x="610" y="1680" as="sourcePoint" />
+            <mxPoint x="380" y="1680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490.5" y="1680" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-60" value="流式资源" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="0.0635" relative="1" as="geometry">
+            <mxPoint x="610" y="1710" as="sourcePoint" />
+            <mxPoint x="380" y="1710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490.5" y="1710" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-62" value="playEndCallback" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="610" y="1730" as="sourcePoint" />
+            <mxPoint x="859.5" y="1730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-64" value="资源播放链接" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="1" source="X2jp-lempmuv-Ai-_Ycj-28" target="X2jp-lempmuv-Ai-_Ycj-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="1530" as="sourcePoint" />
+            <mxPoint x="470" y="1530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="1530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-66" value="播放资源" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" source="X2jp-lempmuv-Ai-_Ycj-27" target="X2jp-lempmuv-Ai-_Ycj-28" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="430" y="1550" as="sourcePoint" />
+            <mxPoint x="510" y="1550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="1550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X2jp-lempmuv-Ai-_Ycj-67" value="播放结束" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="1" source="X2jp-lempmuv-Ai-_Ycj-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="1730" as="sourcePoint" />
+            <mxPoint x="220" y="1730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbWG3TrYyFATLEGv4jDe-2" value="验证成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" source="X2jp-lempmuv-Ai-_Ycj-29" target="X2jp-lempmuv-Ai-_Ycj-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="1600" as="sourcePoint" />
+            <mxPoint x="650" y="1600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="1610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
